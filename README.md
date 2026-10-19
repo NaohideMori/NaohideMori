@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi, I'm Naohide Mori 👋
 
-<!--
-**NaohideMori/NaohideMori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+System Engineer focused on anti-bullying systems for schools in Japan.
+Independent Developer @ MetoroProduct.
 
-Here are some ideas to get you started:
+### What I care about
+- Helping teachers notice small signs of distress in students — early, and without being overwhelmed
+- Turning real-world school operations into practical, maintainable tools
+- Multi-cloud system design (GCP / AWS / Azure / OCI)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 日本語
+学校のいじめ対応を支えるシステムの設計・運用に携わりながら、個人ブランドMetoroProductでは、タスク管理などの実務に役立つツール開発にも取り組んでいます。現場の課題を、使い続けられる仕組みに落とし込むことを大切にしています。
+
+📫 X: [@nhmoriat01](https://x.com/nhmoriat01)
